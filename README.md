@@ -9,10 +9,7 @@
 </h1>
 
 <h4 align="center">Welcome to my Github</h4>
-
-
-                                                       👋 Hi, I’m @Marcyleen
-                                                   👀 I’m interested in Technology
-                                                  🌱 I’m currently learning React.js
-                                         💞️ I’m looking to collaborate on front end development
-
+<h6 align="center">👋 Hi, I’m @Marcyleen</h6>
+<h6 align="center">👀 I’m interested in Technology</h6>
+<h6 align="center">🌱 I’m currently learning React.js</h6>
+<h6 align="center">💞️ I’m looking to collaborate on front end development</h6>
